@@ -1,0 +1,6 @@
+llama-index
+qdrant_client
+torch
+transformers
+flask
+flask-cors
